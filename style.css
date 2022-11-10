@@ -1,0 +1,46 @@
+body {
+  padding: 2rem 10rem;
+  text-align: center;
+}
+
+#btn-box-color {
+  text-align: right;
+}
+
+.btn {
+  height: 2rem;
+  width: 2rem;
+  border: 1px solid gray;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#btn-box-color span {
+  display: inline-block;
+}
+img {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  text-align: justify;
+}
+#white {
+  background-color: #ffffff;
+}
+
+#pink {
+  background-color: #ffc0cb;
+}
+
+#cayan {
+  background-color: #7fffd4;
+}
+
+#black {
+  background-color: #000000;
+}
